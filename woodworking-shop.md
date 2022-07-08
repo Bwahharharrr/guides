@@ -5,6 +5,8 @@
 - Dowl jig/dowls 
 - Facemask 
 - Tablesaw grips 
+- Decent Extension cord
+- Extra ducting for dust control 
  
 ## Dust Control 
 - Dust Right Dust Separator - [amazon](https://www.amazon.com/dp/B00AHGJC8S) 
